@@ -1,13 +1,8 @@
-# Salut, je suis Juste 👋
+Juste Bidouzo, développeur full-stack à Abomey-Calavi. Je construis des boutiques en ligne et des outils web sur mesure.
 
-🎓 Étudiant en 2ème année de Classe Préparatoire (INSPEI, Bénin)
-💻 Développeur web full-stack, autodidacte et passionné par l'IA et la cybersécurité
-📚 Je documente mon apprentissage en public sur LinkedIn et Facebook
-🚀 Actuellement freelance + membre de SNOW (agence en early-stage)
+Prépa ingénieur validée à l'INSPEI. Boursier de l'EPITECH Coding Academy.
 
----
-
-### 🛠️ Stack technique
+### Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
@@ -19,26 +14,22 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
----
+### Réalisations
 
-### 🌟 Projet phare
+- [SNOW](https://snow-agency.online) : site de l'agence SNOW, dont je suis le développeur. Next.js, TypeScript, Tailwind CSS, GSAP.
+- [CampusEvent](https://campus-events-lilac.vercel.app) : plateforme de gestion d'événements pour campus universitaires. J'ai travaillé sur le frontend et le SEO. Next.js, tRPC, Prisma, PostgreSQL.
+- [Portfolio](https://justebidouzo.com) : mes projets et mes services. Next.js, TypeScript, Tailwind CSS.
+- [Moins Une](https://moins-une.vercel.app) : projet concept de boutique de cadeaux de Noël livrés en 48 h à Cotonou. Next.js, TypeScript, Tailwind CSS.
 
-**[Luxus Beauty](https://luxus-beauty.com/fr)** — E-commerce premium réalisé en solo pour un client (Next.js, Tailwind, Supabase, Zustand)
-
----
-
-### 📊 Statistiques GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Juste702&show_icons=true&theme=tokyonight&hide_border=true)
+### Activité
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Juste702&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juste702&layout=compact&theme=tokyonight&hide_border=true&hide=C++,CMake)
+### Contact
 
----
-
-### 📫 Me retrouver
+[Portfolio](https://justebidouzo.com) · [WhatsApp](https://wa.me/2290190605260)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juste-baudouin-307ba4382)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/juste.baudouin.56)
